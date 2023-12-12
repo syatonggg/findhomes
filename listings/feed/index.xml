@@ -11,11 +11,11 @@
 	<atom:link href="/listings/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Matching the right buyer to the right property.</description>
-	<lastBuildDate>Sat, 07 Oct 2023 06:47:46 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Dec 2023 05:20:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 </channel>
 </rss>
