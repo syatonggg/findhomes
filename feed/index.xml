@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Matching the right buyer to the right property.</description>
-	<lastBuildDate>Mon, 01 Jan 2024 16:45:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Sep 2024 04:36:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/10/cropped-android-chrome-512x512-1-32x32.png</url>
